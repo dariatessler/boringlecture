@@ -6,7 +6,7 @@ h1 {
 }
 
 h2.intro {
-  color: yellow;
+  color: rgb(78, 78, 29);
   font-size: 22px;
   text-align: center;
   font-weight: bold
@@ -27,23 +27,37 @@ img.intro {
   width: 80%;
   height: auto;
   padding: 9px;
+  margin-bottom: 20;
   display: block;
 }
 
 .columns {
-  float: right;
+  float: left;
   margin: auto;
   width: 30%;
   height: auto;
   font-size: 12px;
   font-family: serif;
   text-align: center;
+  padding: 9px;
   display: block;
 }
 
-.columns img {
+img.columns {
   margin: auto;
-  width: 80%;
+  width: 90%;
   height: auto;
   display: block;
+}
+
+p.first {
+  background-color: rgb(249, 250, 229)
+}
+
+p.second {
+  background-color: rgb(248, 229, 250)
+}
+
+p.third {
+  background-color: rgb(229, 243, 250)
 }
