@@ -1,4 +1,4 @@
-# _Webpage for Corky_
+# _Boring Lecture_
 
 #### _CSS practice, 10/29/20_
 
