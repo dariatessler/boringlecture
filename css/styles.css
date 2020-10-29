@@ -1,0 +1,49 @@
+
+h1 {
+  color: grey;
+  text-align: center;
+  font-weight: normal
+}
+
+h2.intro {
+  color: yellow;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold
+}
+
+.intro {  
+  margin: auto;
+  width: 60%;
+  height: auto;
+  font-size: 14px;
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+}
+
+img.intro {
+  margin: auto;
+  width: 80%;
+  height: auto;
+  padding: 9px;
+  display: block;
+}
+
+.columns {
+  float: right;
+  margin: auto;
+  width: 30%;
+  height: auto;
+  font-size: 12px;
+  font-family: serif;
+  text-align: center;
+  display: block;
+}
+
+.columns img {
+  margin: auto;
+  width: 80%;
+  height: auto;
+  display: block;
+}
